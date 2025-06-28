@@ -1,6 +1,9 @@
 # simpal_app
 
-A new Flutter project.
+This is a personal News app built using Flutter, with state management handled by GetX and GetX CLI for clean architecture.
+It fetches the latest news using a new and fast News API.
+
+The app is lightweight, fast, and designed for personal use, helping me stay updated with the latest headlines in a simple and user-friendly interface.
 
 ## Getting Started
 
